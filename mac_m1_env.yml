@@ -1,0 +1,20 @@
+name: toulouse
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - tensorflow-deps
+  - notebook
+  - scikit-learn
+  - scipy
+  - conda==22.9.0
+  - pydot
+  - pandas
+  - graphviz
+  - matplotlib
+  - pip
+  - seaborn
+  - tqdm
+  - python=3.10
+  - keras
+prefix: /Users/maxstange/miniforge3/envs/toulouse
